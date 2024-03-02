@@ -1,0 +1,3 @@
+Bank Management System ProjectThis project facilitates the management of customers and their accounts within a bank. Users can create new customer profiles and corresponding bank accounts, deposit and withdraw funds from these accounts, transfer money between accounts, and check their account balances.
+Key Features:
+Customer Management: Create new customer profiles.Account Management: Create and manage bank accounts for customers.Deposit and Withdrawal: Perform financial transactions including depositing and withdrawing money.Transfer Funds: Transfer money between accounts.Check Balance: View account balances.
